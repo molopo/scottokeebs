@@ -529,7 +529,7 @@
                           &kp F       &kp A &kp R       &kp W &kp P 
                           &kp O       &kp E &kp H       &kp T &kp D 
                           &kp U       &kp I &kp N       &kp S &kp Y 
-                &kp SPACE &to NUMBER        &to SYMBOL        &kp ENTER &sk RSHIFT
+                &kp SPACE &to NUMBER        &to SYMBOL        &kp ENTER &studio_unlock
             >;
         };
 
